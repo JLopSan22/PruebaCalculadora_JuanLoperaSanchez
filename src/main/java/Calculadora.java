@@ -5,7 +5,7 @@
 
 public class Calculadora {
     /**
-     * Esta clase contiene los metodos del programa de calculadora de prueba
+     * Esta clase contiene los metodos del programa calculadora
      */
 
     /**
